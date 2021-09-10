@@ -2,7 +2,7 @@
     "name": "Boost",
     "logoURI": "https://boostswapdev.vercel.app/static/media/logo.f1b8ecc7.png",
     "keywords": ["scaling", "layer2", "infrastructure"],
-    "timestamp": "2021-08-22T10:01:21.042+00:00",
+    "timestamp": "2021-09-10T10:01:21.042+00:00",
     "tokens": [ 
       {"chainId":1,"address":"0x4e0fca55a6c3a94720ded91153a27f60e26b9aa8","name":"Boost Coin","symbol":"BOOST","decimals":18,"logoURI":"https://boostswapdev.vercel.app/static/media/logo.f1b8ecc7.png"},
       {"chainId":1,"address":"0x5cb9b847fba8aadb8a943fe19c1cc8439d7e00c5","name":"Honey","symbol":"HONEY","decimals":2,"logoURI":"https://dl.dropbox.com/s/9nwho0xdp86hajb/Bee-1.svg?dl=0"},
@@ -14,7 +14,7 @@
       ],
     "version": {
       "major": 3,
-      "minor": 1,
+      "minor": 2,
       "patch": 0
     }
   }
