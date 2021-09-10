@@ -8,8 +8,9 @@
       {"chainId":1,"address":"0x5cb9b847fba8aadb8a943fe19c1cc8439d7e00c5","name":"Honey","symbol":"HONEY","decimals":2,"logoURI":"https://dl.dropbox.com/s/9nwho0xdp86hajb/Bee-1.svg?dl=0"},
       {"chainId":1,"address":"0xfc7d109056d2fa62c14e0b4abdb4ed6bc0a65269","name":"TurdBurgerMcDingleBerry","symbol":"TBMDB","decimals":18,"logoURI":"https://raw.githubusercontent.com/boostfarm/boosttokenlist/main/tokens/TBMDB.png"},
       {"chainId":1,"address":"0x724dd18be5de3ed3d6ad7bb46d7387d867cdbdcc","name":"AVAKUS","symbol":"AVAK","decimals":18,"logoURI":"https://raw.githubusercontent.com/boostfarm/boosttokenlist/main/tokens/AVAK.jpg"},
-      {"chainId":1,"address":"0xe9d2fe69558fc1819ae2971e68f3615bda6efa1e","name":"EarnETH","symbol":"EarnETH","decimals":9,"logoURI":"https://raw.githubusercontent.com/boostfarm/boosttokenlist/main/tokens/earneth.jpg"}
-    ],
+      {"chainId":1,"address":"0xe9d2fe69558fc1819ae2971e68f3615bda6efa1e","name":"EarnETH","symbol":"EarnETH","decimals":9,"logoURI":"https://raw.githubusercontent.com/boostfarm/boosttokenlist/main/tokens/earneth.jpg"},
+      {"chainId":1,"address":"0x1cea6313400ddbcb503c23f5a4facd3014f29872","name":"Passive Token","symbol":"PASV","decimals":6,"logoURI":"https://raw.githubusercontent.com/boostfarm/boosttokenlist/main/tokens/PASV.jpg"}
+      ],
     "version": {
       "major": 3,
       "minor": 1,
