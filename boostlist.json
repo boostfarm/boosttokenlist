@@ -9,8 +9,8 @@
       {"chainId":1,"address":"0xfc7d109056d2fa62c14e0b4abdb4ed6bc0a65269","name":"TurdBurgerMcDingleBerry","symbol":"TBMDB","decimals":18,"logoURI":"https://raw.githubusercontent.com/boostfarm/boosttokenlist/main/tokens/TBMDB.png"},
       {"chainId":1,"address":"0x724dd18be5de3ed3d6ad7bb46d7387d867cdbdcc","name":"AVAKUS","symbol":"AVAK","decimals":18,"logoURI":"https://raw.githubusercontent.com/boostfarm/boosttokenlist/main/tokens/AVAK.jpg"},
       {"chainId":1,"address":"0xe9d2fe69558fc1819ae2971e68f3615bda6efa1e","name":"EarnETH","symbol":"EarnETH","decimals":9,"logoURI":"https://raw.githubusercontent.com/boostfarm/boosttokenlist/main/tokens/earneth.jpg"},
-      {"chainId":1,"address":"0xe9d2fe69558fc1819ae2971e68f3615bda6efa1e","name":"Baby Trump Token","symbol":"BabyTrump","decimals":9,"logoURI":"https://raw.githubusercontent.com/boostfarm/boosttokenlist/main/tokens/BabyTrump.jpg"},
-      {"chainId":1,"address":"0x99d36e97676a68313ffdc627fd6b56382a2a08b6","name":"Passive Token","symbol":"PASV","decimals":6,"logoURI":"https://raw.githubusercontent.com/boostfarm/boosttokenlist/main/tokens/PASV.jpg"}
+      {"chainId":1,"address":"0x99d36e97676a68313ffdc627fd6b56382a2a08b6","name":"Baby Trump Token","symbol":"BabyTrump","decimals":9,"logoURI":"https://raw.githubusercontent.com/boostfarm/boosttokenlist/main/tokens/BabyTrump.jpg"},
+      {"chainId":1,"address":"0x1cea6313400ddbcb503c23f5a4facd3014f29872","name":"Passive Token","symbol":"PASV","decimals":6,"logoURI":"https://raw.githubusercontent.com/boostfarm/boosttokenlist/main/tokens/PASV.jpg"}
       ],
     "version": {
       "major": 3,
