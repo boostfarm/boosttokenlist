@@ -2,7 +2,7 @@
     "name": "Boost",
     "logoURI": "https://boostswapdev.vercel.app/static/media/logo.f1b8ecc7.png",
     "keywords": ["scaling", "layer2", "infrastructure"],
-    "timestamp": "2021-09-30T17:09:25.042+00:00",
+    "timestamp": "2021-09-30T21:55:45.032+00:00",
     "tokens": [ 
       {"chainId":1,"address":"0x4e0fca55a6c3a94720ded91153a27f60e26b9aa8","name":"Boost Coin","symbol":"BOOST","decimals":18,"logoURI":"https://boostswapdev.vercel.app/static/media/logo.f1b8ecc7.png"},
       {"chainId":1,"address":"0x5cb9b847fba8aadb8a943fe19c1cc8439d7e00c5","name":"Honey","symbol":"HONEY","decimals":2,"logoURI":"https://dl.dropbox.com/s/9nwho0xdp86hajb/Bee-1.svg?dl=0"},
@@ -11,11 +11,12 @@
       {"chainId":1,"address":"0xe9d2fe69558fc1819ae2971e68f3615bda6efa1e","name":"EarnETH","symbol":"EarnETH","decimals":9,"logoURI":"https://raw.githubusercontent.com/boostfarm/boosttokenlist/main/tokens/earneth.jpg"},
       {"chainId":1,"address":"0x99d36e97676a68313ffdc627fd6b56382a2a08b6","name":"Baby Trump Token","symbol":"BabyTrump","decimals":9,"logoURI":"https://raw.githubusercontent.com/boostfarm/boosttokenlist/main/tokens/BabyTrump.jpg"},
       {"chainId":1,"address":"0x1cea6313400ddbcb503c23f5a4facd3014f29872","name":"Passive Token","symbol":"PASV","decimals":6,"logoURI":"https://raw.githubusercontent.com/boostfarm/boosttokenlist/main/tokens/PASV.jpg"},
-      {"chainId":1,"address":"0x810bdba1eb5c70c4dc0dbe3bbaf18fffd31c01d1","name":"SpotStar","symbol":"RedOne","decimals":8,"logoURI":"https://raw.githubusercontent.com/boostfarm/boosttokenlist/main/tokens/REDONE.svg"}
+      {"chainId":1,"address":"0x810bdba1eb5c70c4dc0dbe3bbaf18fffd31c01d1","name":"SpotStar","symbol":"RedOne","decimals":8,"logoURI":"https://raw.githubusercontent.com/boostfarm/boosttokenlist/main/tokens/REDONE.svg"},
+      {"chainId":1,"address":"0xB89656b36f8bc6Df78a1f38BF80a3d32Bf706272","name":"CityCashCoin","symbol":"CITY","decimals":8,"logoURI":"https://raw.githubusercontent.com/boostfarm/boosttokenlist/main/tokens/CITY.jpg"}
       ],
     "version": {
       "major": 3,
-      "minor": 5,
-      "patch": 8
+      "minor": 6,
+      "patch": 1
     }
   }
