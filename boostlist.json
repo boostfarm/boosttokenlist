@@ -6,7 +6,7 @@
     "tokens": [ 
       {"chainId":1,"address":"0x4e0fca55a6c3a94720ded91153a27f60e26b9aa8","name":"Boost Coin","symbol":"BOOST","decimals":18,"logoURI":"https://boostswapdev.vercel.app/static/media/logo.f1b8ecc7.png"},
       {"chainId":1,"address":"0x944eee930933be5e23b690c8589021ec8619a301","name":"MUNCH Token","symbol":"MUNCH","decimals":9,"logoURI":"https://raw.githubusercontent.com/boostfarm/boosttokenlist/main/tokens/MUNCH_LOGO.jpg"},
-      {"chainId":1,"address":"0xf657d69c62c39be9da87d0fb7625b2f730b5af8f","name":"No One","symbol":"NOONE","decimals":18,"logoURI":"https://raw.githubusercontent.com/boostfarm/boosttokenlist/main/tokens/noone-logo.svg"},
+      {"chainId":1,"address":"0xf657d69c62c39be9da87d0fb7625b2f730b5af8f","name":"No One","symbol":"NOONE","decimals":9,"logoURI":"https://raw.githubusercontent.com/boostfarm/boosttokenlist/main/tokens/noone-logo.svg"},
       {"chainId":1,"address":"0x5cb9b847fba8aadb8a943fe19c1cc8439d7e00c5","name":"Honey","symbol":"HONEY","decimals":2,"logoURI":"https://dl.dropbox.com/s/9nwho0xdp86hajb/Bee-1.svg?dl=0"},
       {"chainId":1,"address":"0xfc7d109056d2fa62c14e0b4abdb4ed6bc0a65269","name":"TurdBurgerMcDingleBerry","symbol":"TBMDB","decimals":18,"logoURI":"https://raw.githubusercontent.com/boostfarm/boosttokenlist/main/tokens/TBMDB.png"},
       {"chainId":1,"address":"0x724dd18be5de3ed3d6ad7bb46d7387d867cdbdcc","name":"AVAKUS","symbol":"AVAK","decimals":18,"logoURI":"https://raw.githubusercontent.com/boostfarm/boosttokenlist/main/tokens/AVAK.jpg"},
@@ -19,7 +19,7 @@
       ],
     "version": {
       "major": 4,
-      "minor": 2,
-      "patch": 1
+      "minor": 3,
+      "patch": 2
     }
   }
