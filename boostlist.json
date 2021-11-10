@@ -2,7 +2,7 @@
     "name": "Boost",
     "logoURI": "https://boostswapdev.vercel.app/static/media/logo.f1b8ecc7.png",
     "keywords": ["scaling", "layer2", "infrastructure"],
-    "timestamp": "2021-10-29T11:53:45.032+00:00",
+    "timestamp": "2021-11-09T11:53:45.032+00:00",
     "tokens": [ 
       {"chainId":1,"address":"0x4e0fca55a6c3a94720ded91153a27f60e26b9aa8","name":"Boost Coin","symbol":"BOOST","decimals":18,"logoURI":"https://boostswapdev.vercel.app/static/media/logo.f1b8ecc7.png"},
       {"chainId":1,"address":"0x944eee930933be5e23b690c8589021ec8619a301","name":"MUNCH Token","symbol":"MUNCH","decimals":9,"logoURI":"https://raw.githubusercontent.com/boostfarm/boosttokenlist/main/tokens/MUNCH_LOGO.jpg"},
@@ -15,11 +15,12 @@
       {"chainId":1,"address":"0x1cea6313400ddbcb503c23f5a4facd3014f29872","name":"Passive Token","symbol":"PASV","decimals":6,"logoURI":"https://raw.githubusercontent.com/boostfarm/boosttokenlist/main/tokens/PASV.jpg"},
       {"chainId":1,"address":"0x810bdba1eb5c70c4dc0dbe3bbaf18fffd31c01d1","name":"SpotStar","symbol":"RedOne","decimals":8,"logoURI":"https://raw.githubusercontent.com/boostfarm/boosttokenlist/main/tokens/REDONE.svg"},
       {"chainId":1,"address":"0xB89656b36f8bc6Df78a1f38BF80a3d32Bf706272","name":"CityCashCoin","symbol":"CITY","decimals":8,"logoURI":"https://raw.githubusercontent.com/boostfarm/boosttokenlist/main/tokens/CITY.jpg"},
-      {"chainId":1,"address":"0x3a82193ac6f4d6e17f11cb11eaeddc67a03f06d0","name":"SOUTHPARK THUGS","symbol":"SPTHU","decimals":8,"logoURI":"https://raw.githubusercontent.com/boostfarm/boosttokenlist/main/tokens/SPTHU.jpg"}
+      {"chainId":1,"address":"0x3a82193ac6f4d6e17f11cb11eaeddc67a03f06d0","name":"SOUTHPARK THUGS","symbol":"SPTHU","decimals":8,"logoURI":"https://raw.githubusercontent.com/boostfarm/boosttokenlist/main/tokens/SPTHU.jpg"},
+      {"chainId":1,"address":"0x976091738973b520a514ea206acdd008a09649de","name":"Mishka Token","symbol":"MISHKA","decimals":9,"logoURI":"https://raw.githubusercontent.com/boostfarm/boosttokenlist/main/tokens/MISHKA.jpg"}
       ],
     "version": {
       "major": 4,
-      "minor": 4,
-      "patch": 1
+      "minor": 5,
+      "patch": 2
     }
   }
